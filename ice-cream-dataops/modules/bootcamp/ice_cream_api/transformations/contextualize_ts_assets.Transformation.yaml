@@ -1,4 +1,5 @@
 externalId: contextualize_ts_assets
+dataSetExternalId: {{icapi_ds_external_id}}
 name: Contextualize TimeSeries and Assets
 destination:
   dataModel:

@@ -1,0 +1,3 @@
+externalId: wf_icapi_data_pipeline
+dataSetExternalId: {{ icapi_ds_external_id }}
+description: Workflow for Ice Cream API

@@ -1,4 +1,5 @@
 externalId: create_asset_hierarchy
+dataSetExternalId: {{icapi_ds_external_id}}
 name: Create Cognite Asset Hierarchy
 destination:
   dataModel:
